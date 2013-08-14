@@ -1,0 +1,6 @@
+D:\Repositories\SpeechTests\SpeechSynth1\bin\Debug\SpeechSynth1.exe.config
+D:\Repositories\SpeechTests\SpeechSynth1\bin\Debug\SpeechSynth1.exe
+D:\Repositories\SpeechTests\SpeechSynth1\bin\Debug\SpeechSynth1.pdb
+D:\Repositories\SpeechTests\SpeechSynth1\obj\Debug\SpeechSynth1.csprojResolveAssemblyReference.cache
+D:\Repositories\SpeechTests\SpeechSynth1\obj\Debug\SpeechSynth1.exe
+D:\Repositories\SpeechTests\SpeechSynth1\obj\Debug\SpeechSynth1.pdb

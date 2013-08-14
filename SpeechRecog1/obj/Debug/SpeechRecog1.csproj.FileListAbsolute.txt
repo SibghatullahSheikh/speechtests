@@ -1,0 +1,5 @@
+D:\Repositories\SpeechTests\SpeechRecog1\bin\Debug\SpeechRecog1.exe.config
+D:\Repositories\SpeechTests\SpeechRecog1\bin\Debug\SpeechRecog1.exe
+D:\Repositories\SpeechTests\SpeechRecog1\bin\Debug\SpeechRecog1.pdb
+D:\Repositories\SpeechTests\SpeechRecog1\obj\Debug\SpeechRecog1.exe
+D:\Repositories\SpeechTests\SpeechRecog1\obj\Debug\SpeechRecog1.pdb

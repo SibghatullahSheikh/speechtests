@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechSynth1", "SpeechSynth1.csproj", "{74F5B721-7A45-4F1F-B16E-7D638EB391EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechRecog1", "..\SpeechRecog1\SpeechRecog1.csproj", "{4A6AC869-2163-431B-8072-6E0ED899FA7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F5B721-7A45-4F1F-B16E-7D638EB391EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F5B721-7A45-4F1F-B16E-7D638EB391EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F5B721-7A45-4F1F-B16E-7D638EB391EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F5B721-7A45-4F1F-B16E-7D638EB391EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A6AC869-2163-431B-8072-6E0ED899FA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6AC869-2163-431B-8072-6E0ED899FA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6AC869-2163-431B-8072-6E0ED899FA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6AC869-2163-431B-8072-6E0ED899FA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
